@@ -1,7 +1,7 @@
 ## IFB
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/75395893/130338358-f85e03d2-b87a-4ab3-9c29-16d715cecdf1.mp4" alt="Print" />
+ <img src="![Gif](https://user-images.githubusercontent.com/75395893/130338496-cc1a4b27-5396-4cc1-89b1-91db6aa6d931.gif)" alt="Print" />
 </p>
 
 
